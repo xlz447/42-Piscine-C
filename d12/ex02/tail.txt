@@ -1,0 +1,249 @@
+ls
+ijklmn
+ijklmn
+ghijklmn
+ijklmn
+ijklmn
+==> a <==
+ijklmn
+
+==> a <==
+ijklmn
+==> a <==
+ijklmn
+
+==> a <==
+ijklmn
+==> a <==
+
+==> a <==
+==> a <==
+ghijklmn
+
+==> a <==
+ghijklmn
+==> a <==
+ijklmn
+
+==> a <==
+ijklmn
+==> a <==
+ijklmn
+
+==> a <==
+ijklmn
+==> a <==
+ijklmn
+
+==> a <==
+ijklmn
+
+==> b <==
+uvwxyz
+==> a <==
+ijklmn
+
+==> a <==
+ijklmn
+
+==> b <==
+uvwxyz
+==> a <==
+
+==> a <==
+
+==> b <==
+==> a <==
+ghijklmn
+
+==> a <==
+ghijklmn
+
+==> b <==
+uvwxyz
+==> a <==
+ijklmn
+
+==> a <==
+ijklmn
+
+==> b <==
+uvwxyz
+==> a <==
+ijklmn
+
+==> a <==
+ijklmn
+
+==> b <==
+uvwxyz
+==> a <==
+ijklmn
+
+==> a <==
+ijklmn
+
+==> b <==
+uvwxyz
+
+==> a <==
+ijklmn
+==> a <==
+ijklmn
+
+==> a <==
+ijklmn
+
+==> b <==
+uvwxyz
+
+==> a <==
+ijklmn
+==> a <==
+
+==> a <==
+
+==> b <==
+
+==> a <==
+==> a <==
+ghijklmn
+
+==> a <==
+ghijklmn
+
+==> b <==
+uvwxyz
+
+==> a <==
+ghijklmn
+==> a <==
+ijklmn
+
+==> a <==
+ijklmn
+
+==> b <==
+uvwxyz
+
+==> a <==
+ijklmn
+==> a <==
+ijklmn
+
+==> a <==
+ijklmn
+
+==> b <==
+uvwxyz
+
+==> a <==
+ijklmn
+==> a <==
+ijklmn
+
+==> a <==
+ijklmn
+
+==> b <==
+uvwxyz
+
+==> a <==
+ijklmn
+==> a <==
+ijklmn
+
+==> a <==
+ijklmn
+
+==> b <==
+uvwxyz
+
+==> a <==
+ijklmn
+==> a <==
+
+==> a <==
+
+==> b <==
+
+==> a <==
+==> a <==
+ghijklmn
+
+==> a <==
+ghijklmn
+
+==> b <==
+uvwxyz
+
+==> a <==
+ghijklmn
+==> a <==
+ijklmn
+
+==> a <==
+ijklmn
+
+==> b <==
+uvwxyz
+
+==> a <==
+ijklmn
+==> a <==
+ijklmn
+
+==> a <==
+ijklmn
+
+==> b <==
+uvwxyz
+
+==> a <==
+ijklmn
+==> a <==
+
+==> a <==
+
+==> b <==
+
+==> a <==
+==> a <==
+
+==> a <==
+
+==> b <==
+
+==> a <==
+==> a <==
+
+==> a <==
+
+==> b <==
+
+==> a <==
+==> a <==
+abcdefghijklmn
+
+==> a <==
+abcdefghijklmn
+
+==> b <==
+opqrstuvwxyz
+
+==> a <==
+abcdefghijklmn
+==> a <==
+
+==> a <==
+
+==> b <==
+
+==> a <==
+==> a <==
+
+==> a <==
+
+==> b <==
+
+==> a <==
