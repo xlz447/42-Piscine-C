@@ -1,0 +1,3 @@
+May 14 13:10:53 2018  May 14 23:10:53 2018  krbtgt/42.US.ORG@42.US.ORG
+May 14 13:10:54 2018  May 14 23:10:53 2018  ldap/ldap-proxy.42.us.org@42.US.ORG
+May 14 13:20:25 2018  May 14 23:10:53 2018  host/vgs-fn1.42.us.org@42.US.ORG

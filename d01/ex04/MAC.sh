@@ -1,0 +1,1 @@
+ifconfig -a link | grep -i "ether" | cut -b 8-

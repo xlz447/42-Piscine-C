@@ -1,0 +1,1 @@
+ldapsearch 'uid=xzhu' | grep '^dn:' | cut -b 5-
