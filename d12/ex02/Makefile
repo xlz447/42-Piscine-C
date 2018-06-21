@@ -12,18 +12,24 @@
 
 NAME = ft_tail
 
-SRC = ft_tail.c ft_tail_helper.c
+CC = gcc
+CFLAGS = -I ./include/ -Wall -Werror -Wextra
 
-.PHONY: all clean fclean re
+SRCS =	ft_tail.c		\
+	ft_tail_helper.c
+
+OBJS = $(SRCS:.c=.o)
 
 all: $(NAME)
 
-$(NAME):
-		gcc -Wall -Wextra -Werror -o $(NAME) $(SRC)
-
+$(NAME):	$(OBJS)
+			$(CC) -o $(NAME) $(OBJS) $(CFLAGS)
 clean:
-		/bin/rm -f $(NAME)
+	rm -rf $(OBJS)
 
 fclean: clean
+	rm -f $(NAME)
 
-re: 	clean all
+re: fclean all
+
+.PHONY: re fclean clean all
