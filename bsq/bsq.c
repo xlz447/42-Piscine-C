@@ -19,8 +19,7 @@ void	help_main_stdin(void)
 	else
 	{
 		read_stdin_2nd();
-		read_stdin_line_len();
-		if (check_input() < 0)
+		if (read_stdin_line_len() < 0 || check_input() == 0)
 			write(2, "map error\n", 10);
 		else
 			solve();
@@ -31,7 +30,7 @@ void	help_main_file(char *filename)
 {
 	if (read_file(filename) < 0 ||
 		get_grid_dimensions() < 0 ||
-		check_input() <= 0)
+		check_input() == 0)
 		write(2, "map error\n", 10);
 	else
 		solve();

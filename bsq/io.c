@@ -93,7 +93,7 @@ void		read_stdin_2nd(void)
 	current->cursor = 0;
 }
 
-void		read_stdin_line_len(void)
+int		read_stdin_line_len(void)
 {
 	unsigned short		i;
 	unsigned short		j;
@@ -102,7 +102,7 @@ void		read_stdin_line_len(void)
 	current = g_head;
 	i = 0;
 	j = 0;
-	while (42)
+	while (current)
 	{
 		if (*(current->buf + current->cursor + j) == '\n')
 			break ;
@@ -115,5 +115,8 @@ void		read_stdin_line_len(void)
 		}
 		i++;
 	}
+	if (!current || i == 0)
+		return (-42);
 	g_line_len = i;
+	return (42);
 }
