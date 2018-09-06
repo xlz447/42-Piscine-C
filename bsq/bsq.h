@@ -30,6 +30,6 @@ unsigned int	my_atoi(char *str);
 void			solve(void);
 char			read_stdin_1st(void);
 void			read_stdin_2nd(void);
-void			read_stdin_line_len(void);
+int			read_stdin_line_len(void);
 
 #endif
